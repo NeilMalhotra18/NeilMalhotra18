@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neilmalhotra18" alt="neilmalhotra18" /></a> </p>
 
+- 🌱 Currently exploring **the realms of AI,ML, and cybersecurity. Brew, code, repeat.**
+
 - 📫 How to reach me **neilmalhotra18@gmail.com**
+
+- 👯 Looking to collaborate on **Optimizing machine learning models, building awesome web apps, and exploring new tech stacks. Let’s make cool stuff happen! 🚀**
 
 - 👨‍💻 Most of my projects are available at [https://neilmalhotra18.github.io/Personal-Portfolio/](https://neilmalhotra18.github.io/Personal-Portfolio/)
 
