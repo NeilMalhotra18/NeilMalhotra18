@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neilmalhotra18&label=Profile%20views&color=0e75b6&style=flat" alt="neilmalhotra18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neilmalhotra18" alt="neilmalhotra18" /></a> </p>
-
 - 🌱 Currently exploring **the realms of AI,ML, and cybersecurity. Brew, code, repeat.**
 
 - 📫 How to reach me **neilmalhotra18@gmail.com**
